@@ -39,7 +39,7 @@ In the age of remote work, hybrid jobs, and digital nomads, people often:
 - ⚛️ React (Vite)
 - 🎨 Tailwind CSS
 - 🌐 Web APIs (Geolocation, Network Info, Intersection Observer)
-- ☁️ Hosted on [Vercel]
+- ☁️ Hosted on [Vercel] (https://walk-aware.vercel.app/)
 
 
 
